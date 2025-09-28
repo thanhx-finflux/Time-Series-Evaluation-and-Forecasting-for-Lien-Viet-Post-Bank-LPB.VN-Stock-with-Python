@@ -5,7 +5,7 @@ This project analyzes and forecasts stock prices for Lien Viet Post Bank (former
 
 It includes data evaluation, volatility calculation, and forecasting with methods like moving averages, exponential smoothing, and Holt-Winters.
 
-As of September 26, 2025, LPB.VN 48,500 VND suggests holding long positions.
+As of September 26, 2025, LPB.VN 48,500 VND.
 ### Key Features
 
 - Data fetching with yfinance
